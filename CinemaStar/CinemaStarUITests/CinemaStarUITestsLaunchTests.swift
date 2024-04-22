@@ -1,14 +1,9 @@
-//
-//  CinemaStarUITestsLaunchTests.swift
-//  CinemaStarUITests
-//
-//  Created by Anastasiya Omak on 22/04/2024.
-//
+// CinemaStarUITestsLaunchTests.swift
+// Copyright © RoadMap. All rights reserved.
 
 import XCTest
 
 final class CinemaStarUITestsLaunchTests: XCTestCase {
-
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
     }

@@ -2,7 +2,7 @@
 // Copyright © RoadMap. All rights reserved.
 
 import UIKit
-
+/// класс AppDelegate
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
     func application(
